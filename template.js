@@ -167,7 +167,7 @@ const template = `
         <table width="100%" cellpadding="0" cellspacing="0">
           <tr><td style="padding:5px 0; font-size:13px; color:#444; font-family:Georgia,serif;">✦ &nbsp;No artificial colours or preservatives</td></tr>
           <tr><td style="padding:5px 0; font-size:13px; color:#444; font-family:Georgia,serif;">✦ &nbsp;Sourced directly from Himalayan villages</td></tr>
-          <tr><td style="padding:5px 0; font-size:13px; color:#444; font-family:Georgia,serif;">✦ &nbsp;FSSAI Certified · Lab Tested</td></tr>
+          <tr><td style="padding:5px 0; font-size:13px; color:#444; font-family:Georgia,serif;">✦ &nbsp;FSSAI Certified</td></tr>
         </table>
       </td>
     </tr>

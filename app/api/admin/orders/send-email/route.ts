@@ -208,7 +208,7 @@ function layout({ preheader, headerBg, emoji, title, body }: LayoutOptions): str
         <!-- FOOTER -->
         <tr>
           <td style="background:${C.green};padding:22px 28px;text-align:center;">
-            <p style="margin:0 0 6px;font-size:10px;color:#c8dfc8;font-family:'Courier New',monospace;letter-spacing:2px;text-transform:uppercase;">FSSAI Certified · Lab Tested · Free Shipping Pan India</p>
+            <p style="margin:0 0 6px;font-size:10px;color:#c8dfc8;font-family:'Courier New',monospace;letter-spacing:2px;text-transform:uppercase;">FSSAI Certified · Free Shipping Pan India</p>
             <p style="margin:0 0 6px;font-size:10px;color:#c8dfc8;font-family:'Courier New',monospace;letter-spacing:2px;text-transform:uppercase;">${BRAND.name} · ${BRAND.address}</p>
             <p style="margin:0;font-size:10px;font-family:'Courier New',monospace;letter-spacing:1px;">
               <a href="${BRAND.site}" style="color:#7aaa8a;text-decoration:none;">simdi.in</a>
